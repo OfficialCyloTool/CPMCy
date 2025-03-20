@@ -1,6 +1,6 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://cylotool1.squareweb.app/api"
+BASE_URL: str = "https://bubtool.squareweb.app/api"
 
 class OfficialCyloTool:
 
