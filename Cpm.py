@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from CPMCy import OfficialCyloTool
+from CPMcy import CPMcy
 
 __CHANNEL_USERNAME__ = "CPMCyChannel"
 __GROUP_USERNAME__   = "CPMCychat"
